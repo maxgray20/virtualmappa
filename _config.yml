@@ -19,7 +19,7 @@ email: maxgray20@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     A digital critical edition and introduction of an unpublished essay draft (1928)
     of the modernist American poet Ezra Pound.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "music" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maxgray20
 github_username: maxgray20
