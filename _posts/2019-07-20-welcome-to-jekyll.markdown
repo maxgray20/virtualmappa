@@ -11,5 +11,5 @@ Welcome to the Digital Object Identifier (DOI) landing site of the [<i>Ezra Poun
 Research Assistant, Digital Mappa<br/>
 Graduate Student, Department of English<br/>
 University of Wisconsin-Madison<br/>
-[https://maxgray20.wordpress.com](https://maxgray20.wordpress.com)
+[https://www.maxgray20.com](https://www.maxgray20.com)
 <!--more-->
