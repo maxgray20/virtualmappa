@@ -4,7 +4,7 @@ title: "DOI Metadata Landing Page"
 permalink: /DOI/
 ---
 <b>Title</b>: Ezra Pound's "The Music of Beowulf": A Digital Critical Edition and Introduction<br/>
-<b>Creator</b>: Maxwell Gray<br/>
+<b>Creator</b>: [Maxwell Gray](https://www.maxgray20.com)<br/>
 <b>Publisher</b>: The Center for the History of Print and Digital Culture (University of Wisconsin-Madison)<br/>
 <b>Date</b>: 2019-09-01<br/>
 <b>Language</b>: English<br/>
