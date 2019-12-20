@@ -9,7 +9,7 @@ Welcome to the Digital Object Identifier (DOI) landing site of the open-access [
 
 <b>Martin Foys</b><br/>
 Senior Editor, <i>Virtual Mappa</i><br/>
-Project Leader, <i>Digital Mappa</i><br/>
+Project Leader, Digital Mappa<br/>
 Professor, Department of English<br/>
 University of Wisconsin-Madison<br/>
 [https://martinfoys.wordpress.com/](https://martinfoys.wordpress.com/)
