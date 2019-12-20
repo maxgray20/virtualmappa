@@ -6,7 +6,6 @@ permalink: /DOI/
 <b>Title</b>: Virtual Mappa: Digital Editions of Early Medieval Maps of the World<br/>
 <b>Creator</b>: Martin Foys<br/>
 <b>Contributor</b>: Heather Wacha<br/>
-<b>Contributor</b>: Heather Wacha<br/>
 <b>Contributor</b>: Catherine Crossley<br/>
 <b>Contributor</b>: Asa Mittman<br/>
 <b>Contributor</b>: LauraLee Brott<br/>
