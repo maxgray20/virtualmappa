@@ -10,7 +10,7 @@ permalink: /DOI/
 <b>Contributor</b>: Catherine Crossley<br/>
 <b>Contributor</b>: Asa Mittman<br/>
 <b>Contributor</b>: LauraLee Brott<br/>
-<b>Publisher</b>: Schoenberg Institute of Manuscript Studies<br/>
+<b>Publisher</b>: Schoenberg Institute of Manuscript Studies (University of Pennsylvania)<br/>
 <b>Date</b>: 2018<br/>
 <b>Language</b>: English<br/>
 <b>Type</b>: Interactive Resource<br/>
