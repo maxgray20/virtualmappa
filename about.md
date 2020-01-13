@@ -14,7 +14,7 @@ permalink: /DOI/
 <b>Language</b>: English<br/>
 <b>Type</b>: Interactive Resource<br/>
 <b>Format</b>: digital humanities project, [Digital Mappa](https://www.digitalmappa.org)<br/>
-<b>Identifier</b>: DOI: [10.21231/5sh6-ga95](https://maxgray20.github.io/music/)<br/>
+<b>Identifier</b>: DOI: [10.21231/ef21-ev82](https://maxgray20.github.io/virtualmappa/)<br/>
 <b>Subjects</b>: medieval maps of the world, <i>mappa mundi</i><br/>
 <b>Description</b>: An ongoing collection of networked digital editions of early medieval maps of the world (<i>mappa mundi</i>); built on the digital humanities platform resource [Digital Mappa](https://www.digitalmappa.org) (version 2.0); an open-source digital humanities platform for open-access, browser-based workspaces, projects and scholarly publications.<br/>
 <b>Citation</b>: <i>Virtual Mappa: Digital Editions of Early Medieval Maps of the World</i>, edit. Martin Foys, Heather Wacha, et al. (Philadelphia, PA: Schoenberg Institute of Manuscript Studies, 2018): [https://sims2.digitalmappa.org/36](https://sims2.digitalmappa.org/36). DOI: [10.21231/5sh6-ga95](https://maxgray20.github.io/music/).<br/>
